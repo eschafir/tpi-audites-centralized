@@ -8,5 +8,6 @@ Auditers es un Software de gestión de Auditoría pensado para ser utilizado tan
 * [Entrega 1](https://github.com/eschafir/tpi-audites-centralized/blob/master/TIP%20AuditERS%20-%20Entrega%201.docx)
 * [Entrega 2](https://github.com/eschafir/tpi-audites-centralized/blob/master/TIP%20AuditERS%20-%20Entrega%202.docx)
 * [Entrega 3](https://github.com/eschafir/tpi-audites-centralized/blob/master/TIP%20AuditERS%20-%20Entrega%203.docx)
+* [Entrega 4](https://github.com/eschafir/tpi-audites-centralized/blob/master/TIP%20AuditERS%20-%20Entrega%204.docx)
 
 [![Build Status](https://travis-ci.org/eschafir/tip-auditers-dom.svg?branch=master)](https://travis-ci.org/eschafir/tip-auditers-dom)
